@@ -44,12 +44,12 @@ var callFriend = function(){
   Write a function called makeCounter that makes the following code work properly.
 */
 
-  //Code Here
-  var count = makeCounter();
-  count() // 1
-  count() // 2
-  count() // 3
-  count() // 4
+  // //Code Here
+  // var count = makeCounter();
+  // count() // 1
+  // count() // 2
+  // count() // 3
+  // count() // 4
 
 
 
@@ -63,7 +63,3 @@ var callFriend = function(){
   Once completed, add a second argument that allows the function to be invoked N number of times.
   After the function has been called N number of times, console.log('STAHHP');
 */
-
-
-
-
